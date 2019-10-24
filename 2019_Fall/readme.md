@@ -46,7 +46,7 @@ Make the Pull Request from your own GitHub account. Make sure you're changing th
 
 - [ ] Fujitani, Naohiro
 
-- [X] Garcia Amor, Illan :pizza:
+- [X] Garcia Amor, Illan (@illanxr) :pizza:
 
 - [ ] Garcia, Celso
 
@@ -84,7 +84,7 @@ Make the Pull Request from your own GitHub account. Make sure you're changing th
 
 - [ ] McGrath, Allyse
 
-- [X] Nusinow, Matthew (@mnusinow)
+- [X] Nusinow, Matthew (@mnusinow) :rocket:
 
 - [ ] OReilly, Samuel
 
